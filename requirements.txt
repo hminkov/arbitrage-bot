@@ -1,0 +1,4 @@
+web3
+aiohttp
+gql
+python-dotenv
